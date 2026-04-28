@@ -13,7 +13,7 @@
 
 <br>
 
-<h1 align="center">💡 𝙸𝚗𝚜𝚒𝚐𝚑𝚝𝙱𝚘𝚝 • 𝙱𝙾𝚃</h1>
+<h1 align="center"> 𝙸𝚗𝚜𝚒𝚐𝚑𝚝𝙱𝚘𝚝 • 𝙱𝙾𝚃</h1>
 
 <p align="center">
   Sistema completo de sugestões com votação da comunidade, aprovação por staff e ranking automático.
