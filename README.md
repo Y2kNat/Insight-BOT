@@ -143,13 +143,15 @@ sequenceDiagram
 
 ---
 
-✦ 𝘿𝘼𝙏𝘼𝘽𝘼𝙎𝙀
+## ✦ 𝘿𝘼𝙏𝘼𝘽𝘼𝙎𝙀
 
-📁 suggestions_config.json – Canais configurados por servidor
-📁 approval_roles.json – Cargos de aprovação
-📁 suggestion_votes.json – Histórico de votos
-📁 backups/ – Backups automáticos (mantém últimos 24)
-📁 logs/ – Logs diários detalhados
+| Arquivo / Pasta | Descrição |
+|----------------|-----------|
+| `suggestions_config.json` | Canais configurados por servidor |
+| `approval_roles.json` | Cargos de aprovação |
+| `suggestion_votes.json` | Histórico de votos |
+| `backups/` | Backups automáticos (mantém os últimos 24) |
+| `logs/` | Logs diários detalhados |
 
 ✔ Leve
 ✔ Persistente
