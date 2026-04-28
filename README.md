@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="LINK_IMAGEM" width="100%">
+  <img src="https://www.image2url.com/r2/default/images/1777336366181-b4c185c1-49fb-4239-9e6c-f96a994fab5a.png" width="100%">
 </p>
 
 <p align="center">
