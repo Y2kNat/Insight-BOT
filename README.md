@@ -288,7 +288,7 @@ Encontrou um bug? Tem uma sugestão? Entre em contato com o desenvolvedor:
 
 • Discord: y2k_nat
 
-• E-mail: ornelasisac13@gmail.com 
+• Email: ornelasisac13@gmail.com 
 ---
 
 <p align="center">
