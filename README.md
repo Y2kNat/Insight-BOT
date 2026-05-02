@@ -248,7 +248,7 @@ Configuração no Servidor
 
 ## ✦ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴
 
-```txt
+
 Nome do Servidor ID/
 ├─ suggestions_config.json → Canais configurados
 ├─ approval_roles.json     → Cargos de aprovação
@@ -267,14 +267,14 @@ logs/                       → Logs diários detalhados
 
 ✦ 𝙾𝙱𝙹𝙴𝙲𝚃𝙸𝚅𝙴
 
-```txt
+
 ✔ Dar voz à comunidade
 ✔ Facilitar a gestão de ideias
 ✔ Criar um ambiente colaborativo
 ✔ Automatizar o feedback
 ✔ Crescimento escalável e independente
 ✔ Controle total para o dono do bot
-```
+
 
 ---
 
@@ -299,4 +299,3 @@ Encontrou um bug? Tem uma sugestão? Entre em contato com o desenvolvedor:
 <p align="center">
   <b>© 2026 InsightBot • 𝙼𝚊𝚍𝚎 𝙱𝚢 𝚈𝟸𝚔_𝙽𝚊𝚝</b>
 </p>
-```
