@@ -227,9 +227,7 @@ Pré-requisitos
 · Token de bot Discord
 · ID do dono do bot
 
-# Inicie o bot
-npm start
-```
+---
 
 Configuração no Servidor
 
