@@ -246,7 +246,7 @@ Configuração no Servidor
 
 ## ✦ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴
 
-
+```
 Nome do Servidor ID/
 ├─ suggestions_config.json → Canais configurados
 ├─ approval_roles.json     → Cargos de aprovação
@@ -255,7 +255,7 @@ Nome do Servidor ID/
 blacklist.json              → Lista de servidores bloqueados
 backups/                    → Backups automáticos (mantém os últimos 24)
 logs/                       → Logs diários detalhados
-
+```
 ✔ Leve
 ✔ Persistente
 ✔ Organizado por servidor
