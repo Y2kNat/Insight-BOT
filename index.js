@@ -1,7 +1,3 @@
-// InsightBot - Bot de Sugestões para Discord
-// Desenvolvido com discord.js v14
-// Versão 3.5.0 - Sistema Completo com Auto-Setup e Blacklist
-
 require('dotenv').config();
 const { 
     Client, 
